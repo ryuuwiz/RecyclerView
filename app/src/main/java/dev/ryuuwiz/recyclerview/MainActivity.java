@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         // Prepare data
         List<String> data = new ArrayList<>();
         for (int i = 1; i <= 20; i++) {
-            data.add("Item " + i);
+            data.add("Word " + i);
         }
 
         // Set the adapter
